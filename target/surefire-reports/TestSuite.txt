@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 4, Errors: 0, Skipped: 7, Time elapsed: 2.39 sec <<< FAILURE! - in TestSuite
+setUP(testScripts.MyInfoSalaryTest_AV)  Time elapsed: 0.964 sec  <<< FAILURE!
+java.lang.NullPointerException
+
+tc1(testScripts.LoginTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at testScripts.LoginTest.tc1(LoginTest.java:19)
+
+tc1(testScripts.LoginTest)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at testScripts.LoginTest.tc1(LoginTest.java:19)
+
+setUP(testScripts.DashBoardTest_AV)  Time elapsed: 0.008 sec  <<< FAILURE!
+java.lang.NullPointerException
+

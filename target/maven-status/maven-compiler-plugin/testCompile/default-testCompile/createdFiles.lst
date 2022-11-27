@@ -1,0 +1,16 @@
+testScripts\ChromeCapabilities.class
+testScripts\CalendarDemo.class
+testScripts\WaitForPageLoadDemo.class
+testScripts\ScreenShot.class
+testScripts\MissignLink.class
+testScripts\MyInfoSalaryTest_AV.class
+testScripts\TestBase.class
+testScripts\MyInfoTest_AV.class
+testScripts\DependantsScripts\ParameterTest.class
+testScripts\Log4jDemo.class
+testScripts\LoginTest.class
+testScripts\DashBoardTest_AV.class
+testScripts\DependantsScripts\ParameterTest2.class
+testScripts\DependantsScripts\DependsOnGroups.class
+testScripts\DependantsScripts\DependsOnMethods.class
+testScripts\AutoComplete.class
